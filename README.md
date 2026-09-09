@@ -81,7 +81,7 @@ Here’s how the app looks in action:
 1.Add a graphical dashboard (Tkinter / Web UI)
 2.Export reports as PDF or Excel
 3.Set multiple budgets (weekly, monthly)
-4.Notifications when spending exceeds budget
+4.Notifications when spending exceeds budget......
 
 ![Pull Requests](https://img.shields.io/github/issues-pr/Subhranshuu/expense-tracker)
 
